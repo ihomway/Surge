@@ -1,3 +1,8 @@
+DOMAIN-KEYWORD,diabrowser.engineering,AI
+DOMAIN-SUFFIX,googleapis.com,AI
+DOMAIN-SUFFIX,apple-relay.apple.com,AI
+DOMAIN-SUFFIX,apple-relay.cloudflare.com,AI
+DOMAIN-KEYWORD,apple-relay,AI
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN-SUFFIX,ai.com
