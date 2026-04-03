@@ -1,5 +1,19 @@
 #Personal.list
 # Podcast content providers
+DOMAIN-SUFFIX,bazel.build,Automatic
 DOMAIN-SUFFIX, acast.com
 DOMAIN-SUFFIX, spreaker.com
 DOMAIN-SUFFIX, audioboom.com
+DOMAIN-SUFFIX,api.themoviedb.org,Automatic
+DOMAIN-KEYWORD,docker,Automatic
+DOMAIN-KEYWORD,mastodon,Automatic
+DOMAIN-KEYWORD,techhub.social,Automatic
+DOMAIN-KEYWORD,macked,Automatic
+DOMAIN-KEYWORD,leensasf,Automatic
+DOMAIN-SUFFIX,nssurge.com,Automatic
+DOMAIN-SUFFIX,surgee.me,Automatic
+DOMAIN-SUFFIX,www.torrentmac.net,Automatic
+DOMAIN-SUFFIX,cloudflare.com,Automatic
+DOMAIN,jable.tv,Automatic
+DOMAIN,api.amplitude.com,Automatic
+DOMAIN,m.cmx.im,Automatic
